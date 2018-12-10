@@ -1,5 +1,5 @@
-region          = "europe-west2"
-gcp_project     = "sunlit-vortex-184612"
-credentials     = "credentials.json"
+region          = "northamerica-northeast1"
+gcp_project     = "cohesity-backup"
+credentials     = "GCP-tmx-dm-creation-project-17905aaa4425.json"
 name            = "dev"
 subnet_cidr     = "10.10.0.0/24"
